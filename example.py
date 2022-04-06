@@ -8,8 +8,6 @@ random_choice = random.choice(mylist)
 
 print(random_choice)
 
-#///////////////////////////////////////////////////////////////
-
 # This is the same script, but turned into a function.
 
 import random
